@@ -1,4 +1,4 @@
 return function()
 	print("Hello, world!")
-    print("rawr")
+	print("rawr")
 end
